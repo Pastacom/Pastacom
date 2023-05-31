@@ -24,4 +24,4 @@
 ## 📝 My stats
 
 ![Pastacom's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pastacom&theme=blue-green)
-![Pastacom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pastacom&show_icons=true&theme=radical)
+![Pastacom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pastacom&show_icons=true&theme=algolia)
